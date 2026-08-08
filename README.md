@@ -2,14 +2,14 @@
 
 ## How do I install these formulae?
 
-`brew install f1dg3txd/tap/<formula>`
+`brew install f1dg3txd/ds3pair-macos/<formula>`
 
-Or `brew tap f1dg3txd/tap` and then `brew install <formula>`.
+Or `brew tap f1dg3txd/ds3pair-macos` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "f1dg3txd/tap"
+tap "f1dg3txd/ds3pair-macos"
 brew "<formula>"
 ```
 
